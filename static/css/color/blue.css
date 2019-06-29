@@ -1,10 +1,10 @@
 ::selection {
   background-color: #609cec;
-  color: rgb(243, 0, 0);
+  color: #fff;
 }
 ::-moz-selection {
   background-color: #609cec;
-  color: rgb(243, 0, 0);
+  color: #fff;
 }
 
 .service-box-01 .sb-icon,

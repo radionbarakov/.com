@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "MyCryptoWallet"
+      "addressDetails": {
+        "address": "raLPjTYeGezfdb6crXZzcC8RkLBEwbBHJ5"
+      }
+    }
+  ],
+  "payId": "pay$radionbarakov.com"
+}
